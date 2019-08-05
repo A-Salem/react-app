@@ -33,13 +33,10 @@
 } */
 
 .btn {
-  margin: 10px;
+  width: max-content;
 }
 
 .btnDiv {
   text-align: center;
-}
-
-header {
-  text-align: center;
+  display: -webkit-inline-box;
 }
